@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hosted annually by Music Waste Festival, CiTR 101.9FM and Discorder Magazine, 
   the block party highlights local, independent music in a free end-of-summer 
   celebration that also supports local non-profit and independent media organizations.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/victory-square-block-party" # the subpath of your site, e.g. /blog
+url: "https://saw-mon-and-natalie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sw0nt
 github_username:  Saw-mon-and-Natalie
 
