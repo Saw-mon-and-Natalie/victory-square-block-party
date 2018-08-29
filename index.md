@@ -8,7 +8,7 @@ title: Victory Square Block Party | Vancouver
 <div class="event-poster">
     <div class="container-lg pt-lg-5 pb-lg-5">
         <a href="https://www.facebook.com/events/2255739734653972">
-            <img src="{{ "/assets/img/VSBP_Poster_2018.jpg" | relative_url }}" width="100%" />
+            <img src="{{ "/assets/img/VSBP_Poster_2018.jpg" | absolute_url }}" width="100%" />
         </a>
     </div>
 </div>
